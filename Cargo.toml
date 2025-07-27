@@ -1,0 +1,11 @@
+[package]
+name = "kforge"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+binwalk = "3.1.0"
+argparse = "0.2.2"
+log = "0.4"
+pretty_env_logger = "0.5"
+tabled = "0.20.0"
