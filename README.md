@@ -21,7 +21,7 @@ $ . $HOME/.cargo/env
 ### Step 2
 Install build dependencies
 ```bash
-$ sudo apt install build-essential libfontconfig1-dev liblzma-dev
+$ sudo apt install build-essential libfontconfig1-dev liblzma-dev libssl-dev
 ```
 ### Step 3
 Compile `kforge`.
